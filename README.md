@@ -1,8 +1,8 @@
 # Book Management
 
-## Overview
+## Demo Video
 
-https://github.com/Dharakeswar07/book_management_app/blob/main/BookManagement%20(1).mp4
+[Watch the video](https://github.com/Dharakeswar07/book_management_app/blob/main/BookManagement%20(1).mp4)
 
 ## Project Setup
 

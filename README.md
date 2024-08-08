@@ -20,6 +20,8 @@ https://github.com/user-attachments/assets/563f018b-599a-4f67-b511-b2280c09d78f
 
 ## Project Modules
 
+- User: Admin, User
+
 ### Admin Login
 
 - Email: admin@gmail.com
